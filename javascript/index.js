@@ -1,12 +1,12 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-import cors from 'cors';
+
 // import usersRouter from './routes/users.js';
 
 
 const app = express();
 app.use(bodyParser.json())
-app.use(cors());
+
 
 const PORT = process.env.PORT || 4000;
 
@@ -19,7 +19,9 @@ const PORT = process.env.PORT || 4000;
 //   useUnifiedTopology: true,
 // });
 
+const getRoutes = require('./routers/getRoutes')
 
+app.use("/get", getRoutes)
 
 app.listen(PORT, () => {
     
