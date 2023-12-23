@@ -1,3 +1,3 @@
 #modules
 
-firebase-admin
+express body-parser firebase-admin
