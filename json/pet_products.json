@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Catnip Toy",
+        "description": "Catnip Toy, crafted to cater to your cat\u2019s natural instincts and comfort. Size/Weight/Volume: 10 cm in size.",
+        "price": 91.23,
+        "pet category": "Cat"
+    },
+    {
+        "id": 2,
+        "name": "Rabbit Food",
+        "description": "Rabbit Food, designed with the safety and happiness of your small pet in mind. Size/Weight/Volume: 1 kg pack.",
+        "price": 17.64,
+        "pet category": "Small Pet"
+    },
+    {
+        "id": 3,
+        "name": "Cat Food",
+        "description": "Cat Food, crafted to cater to your cat\u2019s natural instincts and comfort. Size/Weight/Volume: 1.5 kg pack.",
+        "price": 27.46,
+        "pet category": "Cat"
+    },
+    {
+        "id": 4,
+        "name": "Dog Shampoo",
+        "description": "Dog Shampoo, designed for durability and your dog\u2019s complete enjoyment. Size/Weight/Volume: 500 ml bottle.",
+        "price": 94.54,
+        "pet category": "Dog"
+    },
+    {
+        "id": 5,
+        "name": "Aquarium",
+        "description": "Aquarium, made to enhance the beauty and health of your fish\u2019s habitat. Size/Weight/Volume: 75 liters capacity.",
+        "price": 48.2,
+        "pet category": "Fish"
+    },
+    {
+        "id": 6,
+        "name": "Guinea Pig Cage",
+        "description": "Guinea Pig Cage, designed with the safety and happiness of your small pet in mind. Size/Weight/Volume: 80x50 cm dimension.",
+        "price": 73.57,
+        "pet category": "Small Pet"
+    },
+    {
+        "id": 7,
+        "name": "Dog Shampoo",
+        "description": "Dog Shampoo, designed for durability and your dog\u2019s complete enjoyment. Size/Weight/Volume: 500 ml bottle.",
+        "price": 28.84,
+        "pet category": "Dog"
+    },
+    {
+        "id": 8,
+        "name": "Feather Toy",
+        "description": "Feather Toy, perfect for keeping your bird engaged and its environment stimulating. Size/Weight/Volume: 20 cm in size.",
+        "price": 72.06,
+        "pet category": "Bird"
+    },
+    {
+        "id": 9,
+        "name": "Dog Shampoo",
+        "description": "Dog Shampoo, designed for durability and your dog\u2019s complete enjoyment. Size/Weight/Volume: 500 ml bottle.",
+        "price": 98.14,
+        "pet category": "Dog"
+    },
+    {
+        "id": 10,
+        "name": "Water Filter",
+        "description": "Water Filter, made to enhance the beauty and health of your fish\u2019s habitat. Size/Weight/Volume: suitable for 75 liters tank.",
+        "price": 40.4,
+        "pet category": "Fish"
+    },
+    {
+        "id": 11,
+        "name": "Bird Bath",
+        "description": "Bird Bath, perfect for keeping your bird engaged and its environment stimulating. Size/Weight/Volume: 20 cm in diameter.",
+        "price": 48.32,
+        "pet category": "Bird"
+    },
+    {
+        "id": 12,
+        "name": "Bird Bath",
+        "description": "Bird Bath, perfect for keeping your bird engaged and its environment stimulating. Size/Weight/Volume: 20 cm in diameter.",
+        "price": 61.59,
+        "pet category": "Bird"
+    },
+    {
+        "id": 13,
+        "name": "Bird Perch",
+        "description": "Bird Perch, perfect for keeping your bird engaged and its environment stimulating. Size/Weight/Volume: 30 cm in length.",
+        "price": 51.68,
+        "pet category": "Bird"
+    },
+    {
+        "id": 14,
+        "name": "Dog Shampoo",
+        "description": "Dog Shampoo, designed for durability and your dog\u2019s complete enjoyment. Size/Weight/Volume: 500 ml bottle.",
+        "price": 17.1,
+        "pet category": "Dog"
+    },
+    {
+        "id": 15,
+        "name": "Guinea Pig Cage",
+        "description": "Guinea Pig Cage, designed with the safety and happiness of your small pet in mind. Size/Weight/Volume: 80x50 cm dimension.",
+        "price": 85.7,
+        "pet category": "Small Pet"
+    },
+    {
+        "id": 16,
+        "name": "Bird Cage",
+        "description": "Bird Cage, perfect for keeping your bird engaged and its environment stimulating. Size/Weight/Volume: 60x40x40 cm dimension.",
+        "price": 69.74,
+        "pet category": "Bird"
+    },
+    {
+        "id": 17,
+        "name": "Feather Toy",
+        "description": "Feather Toy, perfect for keeping your bird engaged and its environment stimulating. Size/Weight/Volume: 20 cm in size.",
+        "price": 29.44,
+        "pet category": "Bird"
+    },
+    {
+        "id": 18,
+        "name": "Catnip Toy",
+        "description": "Catnip Toy, crafted to cater to your cat\u2019s natural instincts and comfort. Size/Weight/Volume: 10 cm in size.",
+        "price": 76.71,
+        "pet category": "Cat"
+    },
+    {
+        "id": 19,
+        "name": "Dog Food",
+        "description": "Dog Food, designed for durability and your dog\u2019s complete enjoyment. Size/Weight/Volume: 2 kg pack.",
+        "price": 51.99,
+        "pet category": "Dog"
+    },
+    {
+        "id": 20,
+        "name": "Dog Bed",
+        "description": "Dog Bed, designed for durability and your dog\u2019s complete enjoyment. Size/Weight/Volume: 90x70 cm dimension.",
+        "price": 42.28,
+        "pet category": "Dog"
+    }
+]
