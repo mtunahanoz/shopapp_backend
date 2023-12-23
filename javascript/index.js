@@ -1,5 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
+const swaggerUi = require('swagger-ui-express');
 
 // import usersRouter from './routes/users.js';
 

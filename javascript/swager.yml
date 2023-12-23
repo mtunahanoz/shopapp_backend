@@ -1,0 +1,38 @@
+swagger: '2.0'
+info:
+  version: '1.0.0'
+  title: Express API with Swagger
+  description: Sample Express API with Swagger documentation
+basePath: /api
+schemes:
+  - http
+paths:
+  /get/{data_name}/{doc_id}:
+    get:
+      summary: Get data by ID
+      parameters:
+        - name: data_name
+          in: path
+          required: true
+          type: string
+          description: Data name
+        - name: doc_id
+          in: path
+          required: true
+          type: string
+          description: Document ID
+      responses:
+        200:
+          description: Successful response
+  /get/{data_name}/:
+    get:
+      summary: Get data by name
+      parameters:
+        - name: data_name
+          in: path
+          required: true
+          type: string
+          description: Data name
+      responses:
+        200:
+          description: Successful response

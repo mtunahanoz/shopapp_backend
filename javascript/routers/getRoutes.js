@@ -29,7 +29,6 @@ router.get('/:data_name/', (req, res) => {
   
     }
   
-    // Boş doc_id durumunu dikkate alarak işlem yapabilirsiniz
   
   });
 
