@@ -69,7 +69,4 @@ const getRoutes = require('./routers/getRoutes')
 app.use("/get", getRoutes)
 
 
-app.listen(PORT, () => {
-    
-    console.log(`Server is running : http://localhost:${PORT}`);
-})
+app.listen()
