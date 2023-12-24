@@ -1,4 +1,5 @@
 const express = require('express');
+
 const bodyParser = require('body-parser');
 const swaggerUi = require('swagger-ui-express');
 const swaggerDocument = require('./swagger.yaml');
@@ -64,10 +65,9 @@ const options = {
 // });
 
 const getRoutes = require('./routers/getRoutes')
-const postRoutes = require('./routers/postRoutes')
 
 app.use("/get", getRoutes)
-app.use("/post", postRoutes)
+
 
 app.listen(PORT, () => {
     
