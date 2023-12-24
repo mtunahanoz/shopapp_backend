@@ -12,7 +12,7 @@ router.get('/:data_name/:doc_id', (req, res) => {
       });
   
 
-  // Boş doc_id durumunu dikkate alarak işlem yapabilirsiniz
+  // Boş doc_id durumunu dikkate alarak işlem yapabilirsiniza
 
 });
 
